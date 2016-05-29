@@ -37,7 +37,12 @@ import org.slf4j.LoggerFactory;
 public class Quickstart {
 
     private static final transient Logger log = LoggerFactory.getLogger(Quickstart.class);
-
+	
+	public void test(){
+		
+		System.out.println("hello shiro");
+		
+	}
 
     public static void main(String[] args) {
 
