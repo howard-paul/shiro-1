@@ -7,5 +7,6 @@ public class TestEgit {
 		System.out.println("local commit");
 		System.out.println("other programmer commit");
 		System.out.println("test overwrite");
+		System.out.println("test");
 	}
 }
